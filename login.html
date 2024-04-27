@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Quiz Website</title>
+    <!-- You can link your CSS file here for styling -->
+    <link rel="stylesheet" href="quiz.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,700;1,500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css">    
+</head>
+<body>
+    <div class="container"><br><br><br>
+        <h2>LOGIN</h2>
+
+        <form action="login.php" method="POST">
+            <div class="form-group">
+                <br>
+                <span class="icon"></span>
+                <h3><label for="username">Username or Email:</label></h3>
+                <input type="text" id="username" name="username" required>
+            </div>
+            <div class="form-group">
+                <h3><label for="password">Password:</label></h3>
+                <input type="password" id="password" name="password" required>
+            </div>
+            <br><br>
+            <button type="submit">LOGIN</button>         <!--onclick="func()"-->
+        </form>
+        <p>Don't have an account? <a href="registration.php">Register here</a></p>
+    </div> 
+<!-- <script>
+    function func(){
+        var email = document.getElementById("username").value;
+        var pass = document.getElementById('password').value;
+    if(email == 'Amitesh12@gmail.com' && pass == 'abc00'){
+        alert("SUCCESSFUL!")
+        window.location.assign("home.html")
+    }
+    else{
+        alert("EMAIL INVALID!")
+    }
+    } 
+</script>     -->
+</body>
+</html>
