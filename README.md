@@ -1,6 +1,6 @@
 # FOOTMAP
 
-![FOOTMAP Logo](https://example.com/footmap-logo.png)
+![FOOTMAP Logo]([https://example.com/footmap-logo.png](https://github.com/Diganta02/FOOTMAP-e-commerce-/blob/main/logo4.jpg))
 
 FOOTMAP is an e-commerce website dedicated to providing a seamless shopping experience for footwear enthusiasts. With a wide range of shoes for men, women, and sports enthusiasts, FOOTMAP aims to be the ultimate destination for shoe shopping online.
 
