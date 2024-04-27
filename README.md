@@ -22,31 +22,9 @@ FOOTMAP is an e-commerce website dedicated to providing a seamless shopping expe
 
 ## Getting Started
 
-To get started with FOOTMAP, simply visit our website at [www.footmap.com](https://www.footmap.com) and start browsing our collection of shoes. You can create an account to enjoy personalized recommendations and faster checkout.
-
-## Technologies Used
-
-FOOTMAP is built using modern web technologies to ensure a smooth and secure shopping experience for our users. Some of the technologies we leverage include:
-
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Node.js
-- MongoDB
+To get started with FOOTMAP, you can create an account to enjoy personalized recommendations and faster checkout.
 
 ## Contributing
 
-We welcome contributions from the open-source community to help improve FOOTMAP. Whether it's fixing bugs, adding new features, or enhancing the user experience, your contributions are highly appreciated. Please refer to our [Contribution Guidelines](CONTRIBUTING.md) for more information on how to get started.
+We welcome contributions from the open-source community to help improve FOOTMAP. Whether it's fixing bugs, adding new features, or enhancing the user experience, your contributions are highly appreciated.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact Us
-
-If you have any questions, suggestions, or feedback, feel free to reach out to us at [info@footmap.com](mailto:info@footmap.com). We're always here to assist you.
-
----
-
-Feel free to customize this README according to your specific needs and preferences!
