@@ -20,7 +20,8 @@ FOOTMAP is an e-commerce website dedicated to providing a seamless shopping expe
 
 - **Login Option**: Create an account or sign in to access exclusive deals, track your orders, and save your favorite items for later.
 
-- **Samples**: <img align="left" alt="coding" width="300" padding-top="50px" src="https://github.com/Diganta02/FOOTMAP-e-commerce-/blob/main/index.png"><br>
+- **Samples**: <br>
+<img align="left" alt="coding" width="300" padding-top="50px" src="https://github.com/Diganta02/FOOTMAP-e-commerce-/blob/main/index.png"><br>
 <img align="left" alt="coding" width="300" padding-top="50px" src="https://github.com/Diganta02/FOOTMAP-e-commerce-/blob/main/goto.png"><br>
 <img align="left" alt="coding" width="300" padding-top="50px" src="https://github.com/Diganta02/FOOTMAP-e-commerce-/blob/main/blog.png"><br>
 
