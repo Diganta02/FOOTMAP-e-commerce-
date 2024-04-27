@@ -1,5 +1,5 @@
 # FOOTMAP
-<img align="left" alt="coding" width="300" padding-top="50px" src="><br>
+<img align="left" alt="coding" width="300" padding-top="50px" src="https://github.com/Diganta02/FOOTMAP-e-commerce-/blob/main/logo4.jpg"><br>
 
 
 FOOTMAP is an e-commerce website dedicated to providing a seamless shopping experience for footwear enthusiasts. With a wide range of shoes for men, women, and sports enthusiasts, FOOTMAP aims to be the ultimate destination for shoe shopping online.
