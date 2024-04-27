@@ -25,7 +25,7 @@ FOOTMAP is an e-commerce website dedicated to providing a seamless shopping expe
 <br>
 <img align="left" alt="coding" width="300" padding-top="0px" margin-top="0px" src="https://github.com/Diganta02/FOOTMAP-e-commerce-/blob/main/goto.png">
 <br>
-<img align="left" alt="coding" width="300" padding-top="0px" padding-right="10px" src="https://github.com/Diganta02/FOOTMAP-e-commerce-/blob/main/blog.png">
+<img align="left" alt="coding" width="400" padding-top="0px" padding-right="10px" src="https://github.com/Diganta02/FOOTMAP-e-commerce-/blob/main/blog.png">
 <br>
 
 
